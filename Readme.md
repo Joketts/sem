@@ -8,3 +8,6 @@ another edit...
 [![LICENSE](https://img.shields.io/github/license/Joketts/sem.svg?style=flat-square)](https://github.com/<github-username>/sem/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/Joketts/sem/all.svg?style=flat-square)](https://github.com/<github-username>/sem/releases)
+
+# Software Engineering Methods
+![GitHub Workflow Status (develop)](https://img.shields.io/github/actions/workflow/status/Joketts/sem/main.yml)
